@@ -1,0 +1,13 @@
+.dark {
+	color: black;
+}
+.view_qs ul {
+    margin-left: 15px;
+}
+.view_qs {
+    border-bottom: 1px solid;
+}
+.add_more_ans {
+    position: relative;
+    top: 49px;
+}
